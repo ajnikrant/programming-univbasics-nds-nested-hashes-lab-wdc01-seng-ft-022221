@@ -12,7 +12,8 @@ def assembled_aoh
   new_aOh = [
     DON_G,
     JOELLE_VD,
-    KATE_G
+    KATE_G,
+    BRUCE_G
   ]
 end
 
